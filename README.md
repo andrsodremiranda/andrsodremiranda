@@ -29,8 +29,7 @@
 <br/>  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrsodremiranda&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrsodremiranda&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrsodremiranda&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrsodremiranda&layout=compact&theme=tokyonight)  
 
 ## 📌 Projeto em Destaque  
 🔹 [Azul Groove RPC](https://github.com/andrsodremiranda/Azul-Groove-RPC) - Integração avançada para Discord RPC  
